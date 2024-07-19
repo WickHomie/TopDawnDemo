@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GreenEarth",
+			"Path": "..\\Source\\GreenEarth.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GreenEarthEditor",
+			"Path": "..\\Source\\GreenEarthEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

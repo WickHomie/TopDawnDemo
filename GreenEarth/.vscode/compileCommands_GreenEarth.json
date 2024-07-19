@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarth\\GreenEarth.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Develop\\UN5 project\\GreenEarth\\.vscode\\compileCommands_GreenEarth\\GreenEarth.1.rsp"
+		],
+		"directory": "D:\\Develop\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarth\\GreenEarth.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Develop\\UN5 project\\GreenEarth\\.vscode\\compileCommands_GreenEarth\\GreenEarth.1.rsp"
+		],
+		"directory": "D:\\Develop\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarth\\GreenEarth.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Develop\\UN5 project\\GreenEarth\\.vscode\\compileCommands_GreenEarth\\GreenEarth.1.rsp"
+		],
+		"directory": "D:\\Develop\\UE_5.4\\Engine\\Source"
+	}
+]

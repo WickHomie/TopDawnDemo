@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarth\\GreenEarth.Build.cs",
+		"D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarth.Target.cs",
+		"D:\\Develop\\UN5 project\\GreenEarth\\Source\\GreenEarthEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GreenEarth.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Develop\UN5 project\GreenEarth\Intermediate\Build\Win64\x64\GreenEarthEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Develop\UN5 project\GreenEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\GreenEarth\GreenEarth.cpp.obj"
+"D:\Develop\UN5 project\GreenEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\GreenEarth\Default.rc2.res"
+/OUT:"D:\Develop\UN5 project\GreenEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\GreenEarth\UnrealEditor-GreenEarth.lib"

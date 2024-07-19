@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\develop\\un5 project\\greenearth\\source\\greenearth\\greenearth.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\develop\\un5 project\\greenearth\\intermediate\\build\\win64\\x64\\greeneartheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\develop\\un5 project\\greenearth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\greenearth\\definitions.greenearth.h",
+            "d:\\develop\\un5 project\\greenearth\\source\\greenearth\\greenearth.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
